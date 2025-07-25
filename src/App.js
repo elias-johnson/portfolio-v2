@@ -1,5 +1,7 @@
+import Navbar from "./components/Navbar";
+
 export default function App() {
   return (
-    <p>I'm so empty!</p>
+    <Navbar />
   );
 }
